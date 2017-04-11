@@ -3,7 +3,7 @@
 ## Requirements
 
 * [ ] Add custom title to layout to name app `Week One Rails Application`
-* [ ] Create controller called `StaticController` with actions `quotes` and `homepage`
+* [ ] Create controller called `StaticController` with actions `quotes` and `home`
 * [ ] Add `h1` heading tag to homepage that says `Hi from Rails`
 * [ ] Add `p` tag to `quote` page that has the content _(copy and paste content to ensure it matches the test)_.
 
