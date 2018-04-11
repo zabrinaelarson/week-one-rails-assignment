@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'quotes', to: 'static#quotes'
+  resources :guides
+  get 'quotes', to: 'static#quote'
   
   root to: 'static#home'
   
